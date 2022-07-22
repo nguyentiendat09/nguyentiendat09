@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS**
 
-- 📫 How to reach me **luanoutplay@gmail.com**
+- 📫 How to reach me: **luanoutplay@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
