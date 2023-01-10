@@ -101,11 +101,27 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nguyentiendat09&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center"> 🏆 GitHub Trophies 🏆 </h2>
+<br></br>
+<div align=center>
+  <a href="#" title="nguyentiendat09">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nguyentiendat09&theme=chalk&no-frame=false&no-bg=false" />
+  </a>
+</div>
+<br></br>
+
+
+<h2 align="center"> 💰 You can help me by Donating 💰 </h2>
+<div align=center>
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nguyentiendat09) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nguyentiendat09) 
+
+</div>
 
 ---
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/nguyentiendat09/count.svg)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nguyentiendat09) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nguyentiendat09) 
+<div align=center>
+  
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/nguyentiendat09/count.svg)
+  
+</div>
