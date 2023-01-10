@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">DAT</a> <img
+<h1 align="center">Hi there, I'm DAT <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <div align="center">
@@ -42,9 +42,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MicrosoftSQLSever-282C34?logo=microsoftsqlsever&logoColor=CC2927" alt="Microsoft SQL Sever logo" title="Microsoft SQL Sever" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
@@ -58,15 +62,29 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Dribbble-282C34?logo=dribbble&logoColor=EA4C89" alt="Dribbble logo" title="Dribbble" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Cloudflare-282C34?logo=cloudflare&logoColor=F38020" alt="Cloudflare logo" title="Cloudflare" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
 
 <br>
