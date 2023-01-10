@@ -14,11 +14,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <h2 align="center">💫 About Me 💫</h2>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
  -✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn/) (FPTU).<br><br>- 🌱 I’m currently learning **JavaScript & React**<br><br>- 💬 Ask me about **HTML, JavaScript, React**<br><br>- 👨 Pronouns: **He/Him**<br><br>- ⚡ Fun fact : **It’s all 0’s and 1’s**
 
-</br>
 </br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
