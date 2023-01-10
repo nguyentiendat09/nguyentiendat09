@@ -19,6 +19,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
  -✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn/) (FPTU).<br><br>- 🌱 I’m currently learning **JavaScript & React**<br><br>- 💬 Ask me about **HTML, JavaScript, React**<br><br>- 👨 Pronouns: **He/Him**<br><br>- ⚡ Fun fact : **It’s all 0’s and 1’s**
 
 </br>
+</br>
+</br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
