@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">DAT</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<br />
 <div align="center">
 <a href="#" alt="blackcater's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
@@ -122,6 +121,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <div align=center>
   
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/nguyentiendat09/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/nguyentiendat09/count.svg)
   
 </div>
