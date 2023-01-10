@@ -106,7 +106,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👾 Where to find me 👾</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
